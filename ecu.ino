@@ -34,7 +34,6 @@
  * upgrades applied to them (governor removed internally, upgraded flywheel,
  * heavier valve springs, etc...).
  */
-// 
 #define MAX_ENGINE_SPEED 3600
 
 /**
@@ -60,7 +59,6 @@
  * pins 2 or 3 because those are the only interrupt-compatible pins that map
  * to the atmega328 chip.
  */
-// 
 #define TACHOMETER_DIGITAL_IN_PIN 3
 
 /**
